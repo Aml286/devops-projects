@@ -8,7 +8,6 @@ Provisioning an ubuntu server on AWS
 - Next I SSH into the instance using Putty
 
 Installing Apache2 and update the firewall
-![Project1pix2]
 
 
 
