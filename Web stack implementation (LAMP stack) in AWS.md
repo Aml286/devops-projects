@@ -16,6 +16,10 @@ Provisioning an ubuntu server on AWS
 
 ![apache running](https://github.com/Aml286/devops-projects/assets/124487792/b02b089b-cd45-4fdf-bf4f-b1ec59979e0c)
 
+- Open port 80 on the Ubuntu instance to allow access from the internet.
+-  Access the Apache2 service locally
+- 
+
 
 
 
