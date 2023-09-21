@@ -26,7 +26,14 @@ Provisioning an ubuntu server on AWS
 - run: **sudo apt install mysql-server**
 - Confirm intallation by typing Y when prompted
 -  log in to the MySQL console by running: **sudo mysql**
--  
+
+  ![mysql](https://github.com/Aml286/devops-projects/assets/124487792/2cd5942a-0537-4fbd-a0e2-5d845e0aaeb8)
+
+ - exit
+### STEP 3 — INSTALLING PHP
+#### Steps
+- install these 3 packages at once, run  **sudo apt install php libapache2-mod-php php-mysql**
+  
 
 
 
