@@ -18,8 +18,15 @@ Provisioning an ubuntu server on AWS
 
 - Open port 80 on the Ubuntu instance to allow access from the internet.
 -  Access the Apache2 service locally
-- 
 
+  ![apache2](https://github.com/Aml286/devops-projects/assets/124487792/426bbd37-ead5-4bad-8322-c2847c5d3cec)
+
+### INSTALLING MYSQL
+#### Steps
+- run: **sudo apt install mysql-server**
+- Confirm intallation by typing Y when prompted
+-  log in to the MySQL console by running: **sudo mysql**
+-  
 
 
 
