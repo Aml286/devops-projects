@@ -8,6 +8,7 @@ Provisioning an ubuntu server on AWS
 - Next I SSH into the instance using Putty
 
 Installing Apache2 and update the firewall
+![apache running](https://github.com/Aml286/devops-projects/assets/124487792/b02b089b-cd45-4fdf-bf4f-b1ec59979e0c)
 
 
 
