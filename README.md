@@ -1,1 +1,1 @@
-create a straightforward Node.js application Using Docker image 
+Creating a simple straightforward Node.js application Using Docker image 
